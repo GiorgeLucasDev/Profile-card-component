@@ -14,7 +14,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [https://nonulldev.github.io/Profile-card-component/](https://nonulldev.github.io/Profile-card-component/)
+- Live Site URL: <https://giorgelucasdev.github.io/Profile-card-component/>
 
 ## My process
 
